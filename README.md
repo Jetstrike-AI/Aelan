@@ -1,5 +1,5 @@
 # Aelan
-![Screenshot_3](https://user-images.githubusercontent.com/80444802/202464836-682d5baf-b17d-4bb3-a083-9fc11c91f2ec.png)
+![Screenshot_3](https://user-images.githubusercontent.com/80444802/202474889-0f252e2f-25b6-4ff6-9afd-27e66d78d3da.png)
 
 **Aelan - Sys-Admin helper!**
 
@@ -14,4 +14,5 @@ Features:
   4) Fast installing and repairing
   
   5) Autonomy and informativeness of the program
+
 
