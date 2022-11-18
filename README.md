@@ -1,5 +1,6 @@
 # Aelan
-![Screenshot_3](https://user-images.githubusercontent.com/80444802/202474889-0f252e2f-25b6-4ff6-9afd-27e66d78d3da.png)
+![Screenshot_1](https://user-images.githubusercontent.com/80444802/202747671-79636789-8c74-47c0-a352-e0361f3c3aa8.png)
+
 
 **Aelan - Sys-Admin helper!**
 
